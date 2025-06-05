@@ -577,7 +577,9 @@ $`S=K\times\begin{pmatrix}\begin{pmatrix}\ln\begin{pmatrix}A\end{pmatrix}\end{pm
 
 K为标准化常数，用于将分数缩放到一个合理的范围内。这里我们取K=10;
 α、β、γ为权重参数，分别代表教育资金比、师生比、教职工硕博占比的相应的权重，可以根据自己对院校的期待和自己的情况自由选择，满足α+β+γ=1（或接近于1)；
-我们这里以北京大学为例，可以通过其信息公示查得2025年北京大学资金预算支出总计2591358.37万元，中国籍本科学生总数16746人，专任教师3821人，硕博占比98.4%等各种信息。对α、β、γ三个权重参数都取1/3，可以计算得出$`S=K\times\begin{pmatrix}\begin{pmatrix}\ln\begin{pmatrix}A\end{pmatrix}\end{pmatrix}^{\alpha}\times\begin{pmatrix}\frac{B_{r}}{B}\end{pmatrix}^{\beta}\times\begin{pmatrix}C\times\ln\begin{pmatrix}a\end{pmatrix}\end{pmatrix}^{\pi}\end{pmatrix}^{\frac{1}{\alpha+\beta+\pi}}=92.88`$
+我们这里以北京大学为例，可以通过其信息公示查得2025年北京大学资金预算支出总计2591358.37万元，中国籍本科学生总数16746人，专任教师3821人，硕博占比98.4%等各种信息。对α、β、γ三个权重参数都取1/3，可以计算得出
+
+$`S=K\times\begin{pmatrix}\begin{pmatrix}\ln\begin{pmatrix}A\end{pmatrix}\end{pmatrix}^{\alpha}\times\begin{pmatrix}\frac{B_{r}}{B}\end{pmatrix}^{\beta}\times\begin{pmatrix}C\times\ln\begin{pmatrix}a\end{pmatrix}\end{pmatrix}^{\pi}\end{pmatrix}^{\frac{1}{\alpha+\beta+\pi}}=92.88`$
 
 而以郑州工程技术学院为例，可以通过其信息公示查得2025年郑州工程技术学院资金预算支出总计39744.14万元，中国籍本科学生总数15757人，专任教师905人，其中硕士以上学位591人（硕博占比65%），等各种信息。对α、β、γ三个权重参数都取1/3，可以计算得出
 
