@@ -828,15 +828,29 @@ $'GPA=\frac{\sum（coursegradepoint\times coursecredits）}{\sum（creditsofrequ
 ![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/11.png)
 
 4.开启超级用户（默认可能并未开启，需要我们手动开启，赋予权限）。首先是打开后的如下界面，点击右下角的功能设置。进入设置
-![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/12.png)
+![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/13.png)
 
 5.点击显示设置，找到开启超级用户界面，然后打开，如下图所示
-![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/13.png)
 ![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/14.png)
-
-6.此时我们已经做好了基本工作，接下来我们需要在虚拟机下好位置路线模拟软件和校园跑软件；可以在实体机下好后进行导入，也可在虚拟机浏览器搜索直接下载；大家可以尝试一下哪个能用用哪个方法；校园跑软件是学校规定，不在赘述，这是说一下位置模拟软件下载Fake Location；应用信息如下图所示，大家可以直接搜索下载，不要下错了哈。
 ![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/15.png)
 
+6.此时我们已经做好了基本工作，接下来我们需要在虚拟机下好位置路线模拟软件和校园跑软件；可以在实体机下好后进行导入，也可在虚拟机浏览器搜索直接下载；大家可以尝试一下哪个能用用哪个方法；校园跑软件是学校规定，不在赘述，这是说一下位置模拟软件下载Fake Location；应用信息如下图所示，大家可以直接搜索下载，不要下错了哈。
+![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/16.png)
+
+7. 然后在虚拟机里面打开Fake Location;此时需要注册一个账号（进行路线模拟需要专业版，9元一个月，很便宜的）在设置内进行如图调试
+![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/17.png)
+
+8.然后打开路线模拟，点击加号键进入到地图，自行搜索好自己的学校，然后找到操场哪里根据摇杆描出模拟的路线，点击对号即可。
+![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/18.png)
+![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/19.png)
+![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/20.png)
+
+9.注意循环开启，运动速度调试正确合理。
+![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/21.png)
+
+10.此时，我们已经大功告成，在虚拟内，打开校园跑软件（创高，乐跑等），登录好自己账号；选择和Fake Location一致的场地。然后让他自己奔跑吧。
+注意：不同手机略有不同，且HUAWEI，Apple可能超级用户模式无法打开，此文章仅供参考。
+（攻略摘自CSDN社区[@invincible_Tang](https://blog.csdn.net/weixin_74801903)）
 
 #### 2.挂科与重修<a id="section19"></a>
 
