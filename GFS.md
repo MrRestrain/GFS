@@ -827,15 +827,15 @@ $'GPA=\frac{\sum（coursegradepoint\times coursecredits）}{\sum（creditsofrequ
 我个人来讲十分不提倡使用科技来刷校园跑，每天两公里的慢跑对我们的身心无疑都有健康且积极的作用。
 
 1. 需要我们下载好一个虚拟机APP，本人用的是光速虚拟机（别的虚拟机没有进行测试，各位自行考虑）图标如下：
-2. 
+
 ![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/9.png)
 
-3. 打开虚拟机；选择安卓7ROM；这个可以白嫖并且够用了，别的要掏钱。
-4. 
+2. 打开虚拟机；选择安卓7ROM；这个可以白嫖并且够用了，别的要掏钱。
+
 ![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/10.png)
 
-5. 设置那一栏不用动即可；点击播放图标，即启动了虚拟机
-6. 
+3. 设置那一栏不用动即可；点击播放图标，即启动了虚拟机
+
 ![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/11.png)
 
 4.开启超级用户（默认可能并未开启，需要我们手动开启，赋予权限）。首先是打开后的如下界面，点击右下角的功能设置。进入设置
@@ -853,7 +853,7 @@ $'GPA=\frac{\sum（coursegradepoint\times coursecredits）}{\sum（creditsofrequ
 ![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/16.png)
 
 7. 然后在虚拟机里面打开Fake Location;此时需要注册一个账号（进行路线模拟需要专业版，9元一个月，很便宜的）在设置内进行如图调试
-8. 
+
 ![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/17.png)
 
 8.然后打开路线模拟，点击加号键进入到地图，自行搜索好自己的学校，然后找到操场哪里根据摇杆描出模拟的路线，点击对号即可。
