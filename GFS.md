@@ -667,7 +667,7 @@ Shift：切换中英文；
 
 水平所限，我们并不能给你一个既通俗易懂又风华绝代的Python学习教程（不然要比整篇指南字数加起来还多了），因此我们鼓励读者们自学，在网络上自己寻找资源。
 
-例如廖雪峰的个人教程网站：[https://liaoxuefeng.com/]([https://liaoxuefeng.com/](https://liaoxuefeng.com/))。
+例如廖雪峰的个人教程网站：[https://liaoxuefeng.com/](https://liaoxuefeng.com/)
 
 #### 2.军训<a id="section13"></a>
 
