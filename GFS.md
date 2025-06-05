@@ -788,6 +788,15 @@ $'GPA=\frac{\sum（coursegradepoint\times coursecredits）}{\sum（creditsofrequ
 
 **1.4刷网课与校园跑**<a id="section18"></a>
 
+* **刷网课**
+
+一些学校有网课的学分限制，也有些课程的平时分有网课的组成，并且有些对应的网课平台有很恶心的反放置刷课机制（例如每十分钟跳出一个问题弹窗，以防止你放一晚上课人却跑去睡觉）。有些同学会彻夜的播放手机，守在手机或电脑边。
+这些网课或许有很棒的课程，但大多的实用性并不敢恭维。在我们的教育完整化之前，我们仍然得想办法先过了这些网课，例如合理地使用一些工具。
+我们这里以学习通和Microsoft Edge浏览器为例：
+
+1.首先在浏览器打开[脚本猫网站](https://scriptcat.org/zh-CN/ "喵呜")并点击“将scriptcat添加到Edge”；
+![这大概是一个图片](https://github.com/MrRestrain/GFS/blob/main/GFSima/1.png)
+
 
 
 #### 2.挂科与重修<a id="section19"></a>
